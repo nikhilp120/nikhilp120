@@ -1,0 +1,51 @@
+.text {
+  text-align: left;
+  margin-top: 200px;
+  font-size: large;
+  font-weight: 1000;
+  font-size: larger;
+  text-decoration: dashed;
+  padding: 0 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.chat {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin-bottom: 40px;
+  margin-right: 40px;
+}
+.chat img {
+  height: 80px;
+  width: 80px;
+}
+.popup-form {
+  position: fixed;
+
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+}
+.popup-text {
+  padding: 10px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(4, 5, 5);
+  height: 130px;
+}
+.popup-video {
+  height: 200px;
+  width: 400px;
+}
+.popup-video img {
+  height: 200px;
+  width: 400px;
+}
+.button {
+  height: 40px;
+  width: 100px;
+
+  background-color: rgb(58, 9, 3);
+  color: white;
+  font-size: large;
+  font-weight: 400;
+}
